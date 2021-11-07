@@ -1,0 +1,3 @@
+Why Hello. 
+This is my first time using Git.
+Thank you The Odin Project! 
